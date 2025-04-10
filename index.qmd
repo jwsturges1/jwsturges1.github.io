@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Sturges Lab"
 format: html
 editor: visual
 ---
